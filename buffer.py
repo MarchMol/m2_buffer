@@ -25,7 +25,7 @@ def recorrer(buffer, avance, entrada):
 
 
 # Inicialización
-entrada = "diego es supercalifragilisticoespiralidoso y a veces huele mal pues no le gusta bañarse"
+entrada = "irving es supercalifragilisticoespiralidoso y a veces huele mal pues no le gusta bañarse"
 inicio = 0
 avance = 0
 tamano_buffer = 10
